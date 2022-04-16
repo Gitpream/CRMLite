@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    ## CRMLITE - PREVENT DIRECT ACCESS TO CORE
+    Deny from  all
+</IfModule>
